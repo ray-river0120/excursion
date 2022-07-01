@@ -1,0 +1,64 @@
+h1 {
+    font-weight: normal;
+    font-family: Verdana;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+p.right {
+    text-align: right;
+    color: grey;
+}
+
+p.center {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 20px;
+    color: grey;
+
+}
+
+h2 {
+    font-weight: 300;
+    font-family: Verdana;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    font-weight: normal;
+    font-family: Verdana;
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+}
+
+div.center {
+    text-align: center;
+}
+
+a:link {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: aquamarine;
+    background-color: transparent;
+    text-decoration: underline;
+}
