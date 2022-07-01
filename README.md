@@ -1,1 +1,1 @@
-# excursion project from codeacademy
+# Excursion project from codeacademy
